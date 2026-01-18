@@ -2,7 +2,19 @@
   "name": "vibe-app",
   "version": "0.1.0",
   "private": true,
-  "description": "Production-ready React Native + Expo starter with Convex, NativeWind, and EAS",
+  "description": "Production-ready Expo starter: SDK 54 + Convex + NativeWind + TypeScript. Mobile app template with auth, real-time data, Jest testing, EAS builds. Claude Code ready.",
+  "keywords": [
+    "react-native",
+    "expo",
+    "typescript",
+    "mobile",
+    "starter-template",
+    "convex",
+    "nativewind",
+    "tailwindcss",
+    "jest",
+    "eas"
+  ],
   "main": "expo-router/entry",
   "scripts": {
     "start": "expo start",

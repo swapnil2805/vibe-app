@@ -269,12 +269,26 @@ eas update --branch preview --message "Bug fix"
 
 ## Available Claude Skills
 
-This project includes specialized Claude Code skills:
+### Install via Claude Code Plugin Marketplace
 
-- **expo-app-design** - UI/UX patterns for Expo apps
-- **expo-deployment** - EAS Build and Update workflows
-- **upgrading-expo** - SDK upgrade guidance
-- **react-native-best-practices** - Performance and patterns
+**Expo Skills** (by Expo team):
+
+```bash
+/plugin marketplace add expo/skills
+/plugin install expo-app-design      # UI/UX patterns for Expo apps
+/plugin install expo-deployment      # EAS Build and Update workflows
+/plugin install upgrading-expo       # SDK upgrade guidance
+```
+
+**React Native Best Practices** (by Callstack):
+
+```bash
+# Reference: https://github.com/callstackincubator/agent-skills
+# Covers: FPS, re-renders, bundle size, TTI, native profiling, memory, animations
+```
+
+### Local Skills (`.claude/skills/`)
+
 - **testing** - Jest and Maestro testing strategies
 
 ## Environment Variables
